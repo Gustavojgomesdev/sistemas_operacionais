@@ -12,7 +12,9 @@ Autor:
 Gustavo Gomes de Jesus
 
 Brasília, DF (2020)
+
 APRESENTAÇÃO
+
 No semestre de 2020 o Professor Aderbal Botelho lecionador da disciplina
 Sistemas Operacionais propôs a ideia de criarmos uma distribuição Linux, com o
 objetivo de colocarmos em prática todos os conhecimentos adquiridos em sala.
